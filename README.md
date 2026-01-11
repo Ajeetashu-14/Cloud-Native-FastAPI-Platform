@@ -115,6 +115,7 @@ This pattern is used in:
 
 ## 📁 Repository Structure
 
+```text
 cloud-native-platform/
 │
 ├── api-service/                 # FastAPI backend service
@@ -190,3 +191,4 @@ cloud-native-platform/
 ├── Makefile                     # Dev shortcuts (optional)
 ├── README.md                    # Root project documentation
 └── CONTRIBUTING.md              # Contribution guidelines
+```
